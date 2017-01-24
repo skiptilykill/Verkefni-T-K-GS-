@@ -50,6 +50,8 @@ Repository geymir ferillin á öllu
 
 8.	Hvenær er sniðugt að nota greinar (branches)? 
 
+þegar margir er að vinna saman
+
 9.	Hver fann upp GIT?
 
 10.	Hvar er GIT helst notað?
