@@ -30,9 +30,13 @@ git checkout - Updates files in the working tree to match the version in the ind
 	c) git diff commit1 commit2
 diff er almenna skipunin, diff --staged sýnir staged area en ekki working, git commit1 commit 2 ber saman
 
-4. 	Hvað er útgáfustýring (e.version control)? 
+4. 	Hvað er útgáfustýring (e.version control)?
+
+útgáfuskýring er system sem skráir allar breytur í skrám svo þú getur farið til baka á sérstakt version seinna
 
 5.	Hverjir eru helstu kostir við að nota GIT?
+
+
 
 6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
 
