@@ -57,3 +57,5 @@ Repository geymir ferillin á öllu
 Linus Torvalds
 
 10.	Hvar er GIT helst notað?
+
+stórum verkefnum
