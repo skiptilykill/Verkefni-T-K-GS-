@@ -36,9 +36,11 @@ diff er almenna skipunin, diff --staged sýnir staged area en ekki working, git c
 
 5.	Hverjir eru helstu kostir við að nota GIT?
 
-
+einfaldar hópavinnu. 
 
 6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
+
+
 
 7.	Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT?
 
