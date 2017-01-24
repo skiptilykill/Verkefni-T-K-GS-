@@ -44,6 +44,10 @@ frekar oft. í hvert sinn sem að þú breytir eitthverju
 
 7.	Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT?
 
+working directory er directory sem geymir skrár inn í git rótini
+staging area er þar sem þú geymir stuff áður enn þú notar það
+Repository geymir ferillin á öllu
+
 8.	Hvenær er sniðugt að nota greinar (branches)? 
 
 9.	Hver fann upp GIT?
