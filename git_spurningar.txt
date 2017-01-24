@@ -18,7 +18,11 @@ mkdir - make directory
 	git diff
 	git checkout
 
-
+git clone - creates a working copy of a local repository
+git log - sýnir hvaða git commit þú ert búinn að gera
+git status - sýinir working tree status
+git diff - sýnir þér muninn á eitthverju
+git checkout - Updates files in the working tree to match the version in the index
 
 3. Hver er munurinn á eftirfarandi git skipunum:
 	a) git diff 
