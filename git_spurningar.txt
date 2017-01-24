@@ -28,6 +28,7 @@ git checkout - Updates files in the working tree to match the version in the ind
 	a) git diff 
 	b) git diff --staged 
 	c) git diff commit1 commit2
+diff er almenna skipunin, diff --staged sýnir staged area en ekki working, git commit1 commit 2 ber saman
 
 4. 	Hvað er útgáfustýring (e.version control)? 
 
